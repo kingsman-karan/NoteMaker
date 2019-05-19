@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">NoteMaker</string>
+    <string name="app_name">Note Maker</string>
+    <string name="notes_header">Notes</string>
+    <string name="back_button">Back</string>
 </resources>

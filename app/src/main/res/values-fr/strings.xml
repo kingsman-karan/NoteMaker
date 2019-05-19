@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Note Maker</string>
+    <string name="notes_header">Remarques</string>
+
+    <string name="back_button">Retour</string>
+</resources>
