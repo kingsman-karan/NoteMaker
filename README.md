@@ -1,2 +1,2 @@
-# NotesMaker
+# NoteMaker
 Kotlin Demo
